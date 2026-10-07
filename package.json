@@ -1,5 +1,5 @@
 {
-  "name": "PolicySteward",
+  "name": "Template",
   "private": true,
   "scripts": {
     "build": "turbo run build",

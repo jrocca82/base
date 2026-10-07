@@ -1,4 +1,4 @@
-# PolicySteward
+# Template
 
 Turborepo template: Vite + React frontend, NestJS API, Supabase, shadcn/ui.
 
